@@ -1,6 +1,6 @@
 #!/bin/bash
-#
-# (C) Copyright IBM Corp. 2018, 2020. All Rights Reserved.
+# *****************************************************************
+# (C) Copyright IBM Corp. 2020, 2021. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,7 +13,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+# *****************************************************************
 set -vex
 
 bazel clean --expunge
